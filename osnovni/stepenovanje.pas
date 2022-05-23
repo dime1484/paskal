@@ -1,3 +1,10 @@
+(*
+Zadatak:
+	Napisati program koji izračunava
+	rešenje zadatka x^n=? ako su mu 
+	date vrednosti X i N
+*)
+
 program zadatak;
 
 var
