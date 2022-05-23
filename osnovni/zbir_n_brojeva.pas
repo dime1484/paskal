@@ -15,5 +15,5 @@ begin
 	zbir = 0;
 	for i:=0 to n do z = z + i;
 	writeln(zbir);
-	readline;
+	readln;
 end.
