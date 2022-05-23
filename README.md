@@ -1,9 +1,7 @@
 ## Paskal
 
 <p>
-Ovo su većinom nasumični zadaci napisani </br>
-u programskom jeziku Pascal. </br>
-
-Stavljam na Github u slučaju da mogu </br> 
-nekome da pomognu. </br>
+Skup nasumičnih matematičkih kao i generalnih zadataka sa kojima sam se susreo učeći Pascal.
+</br>
+Stavljeno na Github u slučaju da nekome znači.
 </p>
